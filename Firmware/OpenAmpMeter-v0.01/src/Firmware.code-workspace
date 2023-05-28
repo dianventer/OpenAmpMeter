@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../../HobbyProjects/PowerMeter/Firmware"
+	},
+	{
+		"name": "OpenAmpMeter-v0.01",
+		"path": ".."
+	}
+],
+  "settings": {
+    "files.associations": {
+      "functional": "cpp"
+    }
+  }
+}
