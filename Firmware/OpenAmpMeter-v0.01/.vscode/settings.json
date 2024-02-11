@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/dian/Hobby/OpenAmpMeter/Firmware/OpenAmpMeter-v0.01/.pio/libdeps/esp32-c3-devkitc-02/AsyncTCP-esphome",
+    "C_Cpp.errorSquiggles": "disabled"
+}
